@@ -10,3 +10,5 @@ Para executar:
 
 Será impresso no terminal todos os passos dados durante a execução do BubbleSort em baixo nível.
 Para ver os passos críticos do algoritmo, basta ir no arquivo main.v e descomentar as instruções, conforme o tempo de parada desejado.
+
+O arquivo CaminhoDeDados.pdf contém as informações sobre a arquitetura projetada.
